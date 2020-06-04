@@ -13,7 +13,7 @@ The ‘Time’ and ‘Amount’ features are not transformed data.
 There is no missing value in the dataset.
 Model used : Isolation Forest, Support Vector Machine, Local Oulier Factor.
 
-Conclusion:
+### Conclusion:
 
 * Isolation Forest detected 73 errors versus Local Outlier Factor detecting 97 errors vs. SVM detecting 8516 errors
 * Isolation Forest has a 99.74% more accurate than LOF of 99.65% and SVM of 70.09
